@@ -6,7 +6,7 @@
 A console-based ATM Simulation project developed in Java using Object-Oriented Programming (OOP) principles.
 This project simulates real ATM operations such as authentication, balance inquiry, deposits, withdrawals, and transaction tracking.
 
-📌 Project Description 
+📌 Project Description
 
 A console-based ATM simulation in Java using OOP concepts. It supports PIN authentication, balance checking, deposits, withdrawals, transaction history, and PIN change with input validation.
 
